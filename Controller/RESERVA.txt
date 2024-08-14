@@ -1,0 +1,29 @@
+INSERT INTO ordencompra 
+            ( 	oc_codigo,
+                id_cliente,
+                oc_total,
+                oc_forma_pago,
+                oc_fecha,
+                oc_observaciones,
+                oc_id_usuario,
+                oc_estatus,
+                codigo_rv,
+                bodega_facturado,
+                id_bodega,
+				dias_credito
+            ) 						
+            VALUES
+            (
+                'RESERVA',
+                '03100-AGUALONGO DOMINGUEZ LUIS ANTONIO-JAIME ZAPATA-0919650960001',
+                0,
+                'CONTADO',
+                '2024-08-13',
+                'n/a',
+                '200',
+                '1',
+                '118',
+                '1',
+                '12',
+				'0'
+                ) 

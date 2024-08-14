@@ -1,0 +1,18 @@
+INSERT INTO `oc_detalle`( `id_ordencompra`, `item`, `descripcion`,`cantidad`, `precio`, `descuento`, `PVP`, `Dcto_iva`, `iva`, `total`,`direccion_entrega`, `usuario`, `estatus_oc`, `reserva_id`)
+                                            VALUES
+                                            (
+                                                '361',
+                                                '01644',
+                                                'TELEFONO INFINIX HOT 40I X6528 8+256GB GOLD',
+                                                '10',
+                                                '162.15',
+                                                '0',
+                                                '141',
+                                                '0',
+                                                '21.15',
+                                                '1621.5',
+                                                'n/a',
+                                                '274',
+                                                '1',
+                                                '89'                                        
+                                            ) 
