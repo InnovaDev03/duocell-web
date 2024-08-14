@@ -1,0 +1,5 @@
+Fecha : 2024-05-08 10:08:43 : SQLSTATE: 01000 - code: 3621 - message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción.
+Fecha : 2024-05-08 10:32:15 : SQLSTATE: 01000 - code: 3621 - message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción.
+Fecha : 2024-05-08 14:12:28 : SQLSTATE: 01000 - code: 3621 - message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción.
+Fecha : 2024-05-09 10:41:25 : SQLSTATE: 01000 - code: 3621 - message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción.
+Fecha : 2024-05-10 16:01:08 : SQLSTATE: 01000 - code: 3621 - message: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Se terminó la instrucción.
